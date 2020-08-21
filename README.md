@@ -1,7 +1,7 @@
 
 # github_stars
 ## Introduction
-This app lists most starred Github repos that were created in the last 30 days as default but can be adjusted as you wish.
+This app lists the most starred Github repos that were created in the last 30 days as default but can be adjusted as you wish.
 ## Features
 
 
