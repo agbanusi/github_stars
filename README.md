@@ -45,4 +45,4 @@ Then go to http://localhost:1234 and It looks like this in the end:
 
 ![picture](https://github.com/agbanusi/github_stars/blob/master/src/2020-08-21%2001_26_42-Popular%20Github%20Repos%20App.png)
 
-You can also test it live here: 
+You can also test it live here: https://github-popular.netlify.app/
