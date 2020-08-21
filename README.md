@@ -41,6 +41,12 @@ If you already have parcel bundler installed in your system then just run with:
 npm run start
 ```
 
+If you then want to use for production:
+
+```
+npm run build &&cd dist
+```
+
 Then go to http://localhost:1234 and It looks like this in the end:
 
 ![picture](https://github.com/agbanusi/github_stars/blob/master/src/2020-08-21%2001_26_42-Popular%20Github%20Repos%20App.png)
