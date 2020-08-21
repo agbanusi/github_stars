@@ -1,8 +1,8 @@
 
 # github_stars
-##Introduction
+## Introduction
 This app ranks the repos created in github within a particular timeframe based on their stars.
-##Features
+## Features
 
 
 * It lists the most starred Github repos that were created in the last 30 days by default, you can change the days if you wish to
@@ -13,7 +13,7 @@ This app ranks the repos created in github within a particular timeframe based o
 
 ![The webFrame of the App](https://github.com/agbanusi/github_stars/blob/master/src/github-repos_websequence.png)
 
-##How to Use
+## How to Use
 
 First paste this code in your terminal:
 
