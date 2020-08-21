@@ -1,0 +1,68 @@
+body{
+    overflow: hidden;
+}
+.row{
+    margin: 0.5rem;
+    padding: 0rem 1rem 0rem 1rem;
+    height: 10rem;
+    width: 70%;
+    display:flex;
+    align-items:center;
+}
+#cover{
+    height: 100vh;
+    display: grid;
+    justify-items: center;
+    overflow: scroll;
+}
+.row:hover{
+    background-color: antiquewhite;
+}
+.row div{
+    width: 75%;
+}
+.row a{
+    text-decoration: none;
+    color: black;
+    height:100%;
+    width:100%;
+    display:flex;
+    align-items: center;
+}  
+.row h5{
+    margin-bottom: 0.5rem;
+}  
+img{
+    padding:1rem;
+    height: 8rem;
+    width:8rem;
+}
+.divide{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#search{
+    margin-left:0.5rem;
+    width:25rem;
+    border:none;
+}
+#number{
+    margin-left:1rem;
+    height:1rem;
+    width:3rem;
+}
+.mid{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.dine{
+    width: 27rem;
+    padding:0.75rem;
+    border:1px solid black;
+    border-radius: 0.75rem;
+}
+
+/*# sourceMappingURL=/github-popular.e31bb0bc.css.map */
